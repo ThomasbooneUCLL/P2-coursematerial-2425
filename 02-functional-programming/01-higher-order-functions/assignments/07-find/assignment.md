@@ -1,6 +1,6 @@
 ## Task
 
-Consider the following fucntion `find_string_with_consecutive_characters`. It returns the first string in a given list
+Consider the following function `find_string_with_consecutive_characters`. It returns the first string in a given list
 that contains two consecutive characters that are the same.
 
 ```python
