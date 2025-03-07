@@ -53,7 +53,7 @@ The following function returns a set of directors that worked with the actor "To
 function `get_directors_of_actor` that can return a list of directors that have worked with any given actor?
 
 ```python
-get_directors_of_tom_hanks(movies):
+def get_directors_of_tom_hanks(movies):
     directors = []
     for movie in movies:
         if "Tom Hanks" in movie.actors:
